@@ -11,12 +11,12 @@ const Devices = () => {
                     </Title>
                     <ImgGrid>
                         <Image>
-                            <img src="/images/tv.png" alt="TV Icon"/>
+                            <img src="/images/TV.png" alt="TV Icon"/>
                             <h2>TV</h2>
                         </Image>
 
                         <Image>
-                            <img src="/images/laptop.png" alt="Laptop Icon"/>
+                            <img src="/images/Laptop.png" alt="Laptop Icon"/>
                             <h2>Laptop</h2>
                         </Image>
 
@@ -26,7 +26,7 @@ const Devices = () => {
                         </Image>
 
                         <Image>
-                            <img src="/images/xbox.png" alt="XBOX Icon"/>
+                            <img src="/images/XBOX.png" alt="XBOX Icon"/>
                             <h2>XBOX</h2>
                         </Image>
                     </ImgGrid>

@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
-const BackgroundDetails = styled.section`
-    background: url('/images/login-background.jpg');
+const BackgroundDetails = styled.section `
+    background-image: url('/images/login-background.jpg');
     height: 95vh;
     background-position: center;
     background-size: cover;

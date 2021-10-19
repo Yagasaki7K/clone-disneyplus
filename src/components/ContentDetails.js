@@ -56,6 +56,7 @@ const ContentDetails = styled.div`
         font-size: 18px;
         border-radius: 0.145rem;
         transition: all 0.7s ease-in-out;
+        cursor: pointer;
 
         @media screen and (min-width:550px) and (max-width:1200px) {
             padding: 10px 0;
@@ -78,6 +79,7 @@ const ContentDetails = styled.div`
         font-size: 19px;
         background: transparent;
         color: #f9f9f9;
+        cursor: pointer;
 
         @media screen and (min-width:280px) and (max-width:550px) {
             font-size: 15px;

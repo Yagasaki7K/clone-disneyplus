@@ -16,7 +16,7 @@ const DownloadNow = () => {
                         <button type="button" className="btn-theme-disney">DOWNLOAD NOW</button>
                     </TextInfo>
                     <ImgInfo>
-                        <img src="/images/devices.png" alt="imgStream" />
+                        <img src="/images/WandaVision.png" alt="WandaVision" />
                     </ImgInfo>
                 </Container>
             </Section>

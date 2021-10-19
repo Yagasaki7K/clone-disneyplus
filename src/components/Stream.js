@@ -7,7 +7,7 @@ const Stream = () => {
             <Section>
                 <Container>
                     <TextInfo>
-                        <h1 className="disney-titles">Stream with Premier Access the</h1>
+                        <h1 className="disney-titles">Stream with Premier Acess the</h1>
                         <h1 className="disney-titles">same day it's in theaters</h1>
                         <p>Comming May 28. Get Premier Access to Cruella for $29.99 with
                         a Disney+ subscription, and watch as many times as you like before it's
@@ -16,7 +16,7 @@ const Stream = () => {
                         <button type="button" className="btn-theme-disney">PREORDER</button>
                     </TextInfo>
                     <ImgInfo>
-                        <img src="/images/Stream.jpg" alt="imgStream" />
+                        <img src="/images/Mandalorian.jpg" alt="Mandalorian" />
                     </ImgInfo>
                 </Container>
             </Section>
